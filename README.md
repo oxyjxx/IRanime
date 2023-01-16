@@ -13,7 +13,7 @@ from iranime import IRanime
 
 get = IRanime.SenkoPictures.url
 print(get)
-``` <br>
+```
 <br>
 
 <b>Tutorial:</b>
