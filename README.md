@@ -3,7 +3,7 @@ Library for getting random URLs of anime character images
 <hr>
 <b>Install:</b> git clone https://github.com/oxyjxx/iranime <br>
 <b>All Library Class:</b>
-Senko - SenkoPictures
+Senko - SenkoPictures <br>
 
 <b>Example:</b>
 > example.py or:
@@ -13,8 +13,9 @@ from iranime import IRanime
 
 get = IRanime.SenkoPictures.url
 print(get)
-
-#tutorial:
+``` <br> <br>
+<b>Tutorial:</b>
+```python
 from iranime import IRanime # imports | IRanime - lib folder
 
 get = IRanime.LibClass.url # get random url in LibClass
