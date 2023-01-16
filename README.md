@@ -2,7 +2,7 @@
 Library for getting random URLs of anime character images
 <hr>
 <b>Install:</b> git clone https://github.com/oxyjxx/iranime <br>
-<b>All Library Class:</b>
+<b>All Library Class: <br> </b>
 Senko - SenkoPictures <br>
 <br>
 
