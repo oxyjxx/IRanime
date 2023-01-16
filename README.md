@@ -13,7 +13,9 @@ from iranime import IRanime
 
 get = IRanime.SenkoPictures.url
 print(get)
-``` <br> <br>
+``` <br>
+<br>
+
 <b>Tutorial:</b>
 ```python
 from iranime import IRanime # imports | IRanime - lib folder
