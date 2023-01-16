@@ -1,12 +1,12 @@
 # IRanime
 Library for getting random URLs of anime character images
 <hr>
-**Install:**
+<b>Install:</b>
 ```py
 pip install iranime
 ```
 
-**Example:**
+<b>Example:</b>
 > example.py or:
 ```py
 from iranime import IRanime
