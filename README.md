@@ -2,7 +2,7 @@
 Library for getting random URLs of anime character images
 <hr>
 <b>Install:</b>
-```py
+```python
 pip install iranime
 ```
 
