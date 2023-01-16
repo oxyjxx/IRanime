@@ -4,6 +4,8 @@ Library for getting random URLs of anime character images
 <b>Install:</b>
 ```
 pip install iranime
+
+
 ```
 
 <b>Example:</b>
