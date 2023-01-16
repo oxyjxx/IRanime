@@ -1,6 +1,7 @@
 # IRanime
 Library for getting random URLs of anime character images
 <hr>
+<img src="https://anime-fans.ru/wp-content/uploads/2021/05/Vse-anime-na-odnoj-kartinke-podborka-oboev-7.jpg">
 <b>Install:</b> git clone https://github.com/oxyjxx/iranime <br>
 <b>All Library Class: <br> </b>
 Senko - SenkoPictures <br>
